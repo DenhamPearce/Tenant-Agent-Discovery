@@ -1,5 +1,4 @@
 ---
 tenant:
-  url: "https://essensys-uk.analytics.accedian.io"
+  url: "https://essensys-us.analytics.accedian.io"
   username: "dpearce@accedian.com"
-...
